@@ -1,0 +1,42 @@
+print("welcome to prog1004")
+print('Hello Programming World')
+print('Programming Principles With Python')
+print('#prog10004')
+print("amk")
+helloMsg='Hello programming world'
+print(helloMsg)
+courseMsg='Programming Principles with Python'
+print(courseMsg)
+courseNo=10004
+print('#prog',courseNo,helloMsg,courseNo,sep=",")
+phoneNo='(647)489 769'
+print(phoneNo)
+print('phoneNo',sep=" ")
+phoneNo1=647
+phoneNo2=489
+phoneNo3=769
+print(phoneNo1,phoneNo2,phoneNo3)
+helloMsg='Hello programming world'
+print(helloMsg)
+courseMsg='Programming Principles with Python'
+print(courseMsg)
+courseNo=10004
+print('#prog',courseNo,sep="")
+def myphone():
+    phoneNo1,phoneNo2,phoneNo3
+class HelloMessage:
+    def show(self):
+        helloMsg='Hello programming world'
+        print(helloMsg)
+        courseMsg='Programming Priciples with Python'
+        print(courseMsg)
+        courseNo=10004
+        print('#prog',courseNo,sep=".")
+
+
+
+
+
+
+
+
